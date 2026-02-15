@@ -1,0 +1,18 @@
+{
+	"schemaVersion": 1,
+	"id": "createmorewrenchables",
+	"version": "fabric1.20.1-1.0.0",
+	"name": "Create: More Wrenchables",
+	"description": "Allows the Create Wrench to pickup more blocks while staying within the scope of what Create already allows",
+	"authors": [
+		"AnalogThea"
+	],
+	"license": "MIT",
+	"icon": "assets/createmorewrenchables/icon.png",
+	"environment": "*",
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.20.1",
+		"fabric-api": "*"
+	}
+}
