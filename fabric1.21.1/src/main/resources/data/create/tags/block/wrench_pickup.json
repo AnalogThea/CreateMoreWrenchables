@@ -1,0 +1,36 @@
+{
+  "values": [
+
+    "minecraft:iron_bars",
+
+    "minecraft:lantern",
+    "minecraft:soul_lantern",
+    "minecraft:dispenser",
+    "minecraft:comparator",
+    "minecraft:beacon",
+    "minecraft:conduit",
+    "minecraft:decorated_pot",
+    "minecraft:end_rod",
+
+    "minecraft:calibrated_sculk_sensor",
+    "minecraft:jukebox",
+    "minecraft:end_rod",
+    "minecraft:lightning_rod",
+    "minecraft:redstone_block",
+    "minecraft:dropper",
+    "#create:seats",
+    "minecraft:chain",
+    "minecraft:furnace",
+    "minecraft:smoker",
+    "minecraft:blast_furnace",
+    "mineraft:tinted_glass",
+    "minecraft:brewing_stand",
+    "minecraft:fletching_table",
+    "minecraft:smithing_table",
+    "minecraft:grindstone",
+    "minecraft:composter",
+    "minecraft:stonecutter",
+    "minecraft:loom",
+    "minecraft:lectern"
+  ]
+}
